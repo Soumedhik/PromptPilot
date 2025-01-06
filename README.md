@@ -47,7 +47,7 @@ This application is designed as a supportive tool for practicing and improving c
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/<your-username>/prompt-pilot.git  
+   git clone https://github.com/Soumedhik/PromptPilot.git 
    cd prompt-pilot  
    ```  
 
