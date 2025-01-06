@@ -1,0 +1,7 @@
+groq
+keyboard
+load_dotenv
+wave
+time
+pyaudio
+audioopPyPDF2
