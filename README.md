@@ -85,6 +85,21 @@ This application is designed as a supportive tool for practicing and improving c
 
 ---
 
+## Portfolio Website
+
+A fully static, visually striking portfolio website has been created to showcase PromptPilot. The website features:
+- Animated hero section with typed text effect
+- Moving gradient backgrounds
+- Scroll-triggered animations
+- Interactive project cards
+- Skills progress bars
+- Contact section
+- "Download CV" and "Download Resume" buttons
+
+Visit the `portfolio/` directory to access the website files.
+
+---
+
 ## Contributions
 Contributions are welcome! If you have suggestions or would like to enhance the application, feel free to submit a pull request or create an issue.
 
